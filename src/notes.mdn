@@ -1,0 +1,46 @@
+### Intro to React
+ 
+1. JSX (JavaScript XML) -> JS (Webpack + babel)
+2. Inside return() is JSX
+ 
+### Why className?
+ 
+1. class is a reserved keyword in JS
+2. for -> htmlFor in JSX
+ 
+### {} -> template syntax
+ 
+1. Supports expression
+ 
+### Handy shortcuts
+ 
+1. crtl + ` -> show / hide terminal
+2. crtl + , -> settings | format on save
+3. crtl + c -> stop react server in terminal
+4. win + . -> emojis ?
+ 
+npm start -> To start terminal
+ 
+### Purpose index.js
+ 
+1. Bootstrap (start) the react
+ 
+### React.StrictMode - Error checking
+ 
+1.  Displays Error in console
+ 
+### function to be considered as components
+ 
+1. function should start with a capital letter
+2. It should at least one jsx element
+ 
+### props -> arguments
+ 
+1. props -> properties of the components
+ 
+### <></> - React fragment / div
+ 
+1.  Avoiding extra element in the DOM
+2.  Styling is easier from parent
+ 
+DRY - Donot Repeat Yourself
